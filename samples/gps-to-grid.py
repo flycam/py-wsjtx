@@ -17,7 +17,7 @@ import pywsjtx.extra.simple_server
 
 IP_ADDRESS = '224.1.1.1'
 PORT = 5007
-UPDAE_TXT = False
+UPDATE_TXT = False
 
 logging.basicConfig(level=logging.DEBUG)
 
